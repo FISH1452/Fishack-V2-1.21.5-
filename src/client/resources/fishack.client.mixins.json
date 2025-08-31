@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.fishack.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"FishackClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
